@@ -1,0 +1,23 @@
+
+.container {
+  max-width: 1240px;
+  min-height: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+.search-input {
+  width: 100%;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 15px;
+  font-size: 16px;
+  color: #334155; 
+}
+
+.loading-text {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px;
+}
